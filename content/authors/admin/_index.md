@@ -67,7 +67,7 @@ social:
 #email: ""
 ---
 
-関西に住んでいる私立大学M1のふーと（Kaede）です．同人サークルMoMに所属しています．Web開発や機械学習，深層学習，自然言語処理に興味があります．
+関西に住んでいる私立大学M1のふーと（Kaede）です．Web開発や機械学習，深層学習，自然言語処理に興味があります．[同人サークルMoM](https://momdev.club/)に所属しています．
 
 <!--
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
