@@ -20,10 +20,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -47,10 +47,13 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
+  link: https://twitter.com/21291908kafux
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://instagram.com/fykaedey10
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kaedefuto
 
 # Uncomment below for Github link
 #- icon: github
