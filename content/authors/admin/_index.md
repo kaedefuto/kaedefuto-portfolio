@@ -51,14 +51,11 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/fykaedey10
+
+# Uncomment below for Github link
 - icon: github
   icon_pack: fab
   link: https://github.com/kaedefuto
-
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,8 +67,14 @@ social:
 #email: ""
 ---
 
+関西に住んでいる私立大学M1のふーと（Kaede）です．同人サークルMoMに所属しています．Web開発や機械学習，深層学習，自然言語処理に興味があります．
+
+<!--
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+-->
 
+<!--
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+-->
