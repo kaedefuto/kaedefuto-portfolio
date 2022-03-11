@@ -1,6 +1,6 @@
 ---
 # Display name
-title: kaede (kaedefuto)
+title: ふーと (Kaede)
 
 # Is this the primary user of the site?
 superuser: true

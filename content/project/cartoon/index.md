@@ -1,8 +1,9 @@
 ---
-title: Cartoon Face Generator
+title: GPT-2 Chatbot
 summary: Write about your project here...
 tags:
-- CV
-date: 2022-01-01
-external_link: http://github.com
+- Deep Learning
+- NLP
+date: 2021-09-21
+external_link: https://github.com/kaedefuto/GPT-2_Chatbot
 ---

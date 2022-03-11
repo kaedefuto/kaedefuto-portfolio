@@ -28,10 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Machine Learning
-    tag: ML
-  - name: Computer Vision
-    tag: CV
+  - name: Deep Learning
+    tag: Deep Learning
   - name: NLP
     tag: NLP
 
