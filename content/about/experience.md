@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 大学院
+  - title: とある大学院
     location: Kobe
     date_start: '2021-04-01'
     date_end: ''
         
-  - title: 大学
+  - title: とある大学
     location: Kobe
     date_start: '2017-04-01'
     date_end: '2021-03-25'
