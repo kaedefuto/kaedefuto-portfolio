@@ -10,16 +10,16 @@ weight: 10
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
+  - icon: python
     icon_pack: fab
-    name: R
-    description: 90%
-  - icon: chart-line
+    name: Python
+    #description: 90%
+  - icon: c
     icon_pack: fas
-    name: Statistics
-    description: 100%
-  - icon: camera-retro
+    name: C
+    #description: 100%
+  - icon: html5
     icon_pack: fas
-    name: Photography
-    description: 10%
+    name: HTML
+    #description: 10%
 ---
