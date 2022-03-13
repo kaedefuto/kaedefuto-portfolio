@@ -42,9 +42,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+  #icon_pack: fas
+  #link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/21291908kafux
@@ -52,6 +52,7 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/fykaedy10/
 - icon: amazon
+  icon_pack: fab
   link: https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share
 
 # Uncomment below for Github link
