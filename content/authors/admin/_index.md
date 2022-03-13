@@ -50,7 +50,9 @@ social:
   link: https://twitter.com/21291908kafux
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/fykaedey10
+  link: https://www.instagram.com/fykaedy10/
+- icon: amazom
+  link: https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share
 
 # Uncomment below for Github link
 - icon: github
