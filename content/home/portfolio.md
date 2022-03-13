@@ -28,12 +28,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: App
+  - tag: App
   - name: Deep Learning
     tag: Deep Learning
   - name: NLP
     tag: NLP
-  - name: App
-  - tag: App
 
 design:
   columns: '1'
