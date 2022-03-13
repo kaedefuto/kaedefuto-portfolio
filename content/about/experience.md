@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: TA (Python, Processing, C, MySQL, HTML, CSS)
+  - title: TA（Python, Processing, C, MySQL, HTML, CSS）
     #company: GenCoin
     #company_url: ''
     #company_logo: org-gc
     location: Kobe
-    date_start: '2021-01-01'
+    date_start: '2021-04-01'
     date_end: ''
     #description: |2-
         #Responsibilities include:
@@ -35,8 +35,15 @@ experience:
         #* Analysing
         #* Modelling
         #* Deploying
+  - title: AiBiC Spiral enPiT
+  #company: University X
+  company_url: 'https://www.enpit.jp/index-2.html'
+  #company_logo: org-x
+  location: Osaka
+  date_start: '2019-04-01'
+  date_end: '2019-11-01'
         
-  - title: Drugstore
+  - title: Drugstore（Part-Time Job）
     #company: University X
     #company_url: ''
     #company_logo: org-x
