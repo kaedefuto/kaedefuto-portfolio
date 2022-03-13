@@ -15,11 +15,11 @@ feature:
     name: Python
     #description: 90%
   - icon: c
-    icon_pack: fas
+    icon_pack: fab
     name: C
     #description: 100%
   - icon: html5
-    icon_pack: fas
+    icon_pack: fab
     name: HTML
     #description: 10%
 ---
