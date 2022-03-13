@@ -18,8 +18,4 @@ feature:
     icon_pack: fab
     name: C
     #description: 100%
-  - icon: html5
-    icon_pack: fab
-    name: HTML
-    #description: 10%
 ---
