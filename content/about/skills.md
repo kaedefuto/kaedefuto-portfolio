@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true  # This file represents a page section.
-title: Skills
+title: Skill
 
 # ... Put Your Section Options Here (title etc.) ...
 
