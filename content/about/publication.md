@@ -7,10 +7,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Award'
+title: 'Publications'
 subtitle:
 
 # Date format
@@ -25,28 +25,13 @@ date_format: Jan 2006
 item:
 - #certificate_url: https://www.coursera.org
   #date_end: ""
-  date_start: "2021-03-01"
+  #date_start: "2021-03-01"
   #description: ""
   #organization: Coursera
   #organization_url: https://www.coursera.org
-  title: 「DEIM学生プレゼンテーション賞」（DEIM2021）
-  url: "https://db-event.jpn.org/deim2021/post/awards.html"
-- #certificate_url: https://www.edx.org
-  #date_end: ""
-  date_start: "2020-09-01"
-  #description: Formulated informed blockchain models, hypotheses, and use cases.
-  #organization: edX
-  #organization_url: https://www.edx.org
-  title: 「優秀学生プレゼンテーション賞」（DBWS2020）
-  url: https://sites.google.com/view/dbws2020/%E8%A1%A8%E5%BD%B0
-- #certificate_url: https://www.datacamp.com
-  #date_end: "2020-12-21"
-  date_start: "2020-03-01"
-  description: ""
-  #organization: DataCamp
-  #organization_url: https://www.datacamp.com
-  title: '2018年度 知能情報学部成績優秀者表彰'
-  url: ""
+  title: Here
+  url: "https://www.nadasemi.jp/members/FUTO/Futo_Profile.html#Publications"
+
 
 design:
   columns: '1' 
