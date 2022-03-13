@@ -29,7 +29,7 @@ content:
   - name: All
     tag: '*'
   - name: App
-  - tag: App
+    tag: App
   - name: Deep Learning
     tag: Deep Learning
   - name: NLP
