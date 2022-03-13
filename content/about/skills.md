@@ -15,7 +15,7 @@ feature:
     name: Python
     #description: 90%
   - icon: c
-    icon_pack: fab
+    icon_pack: fas
     name: C
     #description: 100%
   - icon: html5
