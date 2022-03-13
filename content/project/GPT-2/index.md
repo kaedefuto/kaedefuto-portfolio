@@ -1,6 +1,6 @@
 ---
 title: GPT-2 Chatbot
-summary: Write about your project here...
+summary: GPT-2 Chatbot
 tags:
 - Deep Learning
 - NLP
