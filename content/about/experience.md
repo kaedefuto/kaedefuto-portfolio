@@ -36,12 +36,12 @@ experience:
         #* Modelling
         #* Deploying
   - title: AiBiC Spiral enPiT
-  #company: University X
-  company_url: 'https://www.enpit.jp/index-2.html'
-  #company_logo: org-x
-  location: Osaka
-  date_start: '2019-04-01'
-  date_end: '2019-11-01'
+    #company: University X
+    company_url: 'https://www.enpit.jp/index-2.html'
+    #company_logo: org-x
+    location: Osaka
+    date_start: '2019-04-01'
+    date_end: '2019-11-01'
         
   - title: Drugstore（Part-Time Job）
     #company: University X
