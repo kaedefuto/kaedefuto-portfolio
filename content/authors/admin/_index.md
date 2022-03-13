@@ -51,7 +51,7 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fykaedy10/
-- icon: amazom
+- icon: amazon
   link: https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share
 
 # Uncomment below for Github link
