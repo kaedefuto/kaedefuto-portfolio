@@ -44,9 +44,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-  #icon_pack: fas
-  #link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/21291908kafux
@@ -69,7 +69,7 @@ social:
 #email: ""
 ---
 
-関西に住んでいる私立大学M1のふーと（Kaede）です．Web開発や機械学習，深層学習，自然言語処理に興味があります．[同人サークルMoM](https://momdev.club/)に所属しています．欲しいものリストは[こちら](https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share)
+関西に住んでいる私立大学M1のふーと（Kaede）です．Web開発や機械学習，深層学習，自然言語処理に興味があります．[同人サークルMoM](https://momdev.club/)に所属しています．
 
 <!--
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
