@@ -32,6 +32,8 @@ content:
     tag: Deep Learning
   - name: NLP
     tag: NLP
+  - name: App
+  - tag: App
 
 design:
   columns: '1'
