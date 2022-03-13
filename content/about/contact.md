@@ -12,12 +12,12 @@ weight: 60
 title: Contact
 subtitle:
 
-content:
+#content:
   # Automatically link email and phone or display as text?
-  autolink: true
-  - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/21291908kafux
+  #autolink: true
+- icon: twitter
+icon_pack: fab
+link: https://twitter.com/21291908kafux
   # Email form provider
   #form:
   #  provider: netlify
