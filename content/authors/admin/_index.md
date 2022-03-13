@@ -22,7 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
+- Web Development
 - Machine Learning
+- Deep Learning
 - Natural Language Processing
 
 #education:
@@ -51,9 +53,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fykaedy10/
-- icon: amazon
-  icon_pack: fab
-  link: https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share
 
 # Uncomment below for Github link
 - icon: github
@@ -70,7 +69,7 @@ social:
 #email: ""
 ---
 
-関西に住んでいる私立大学M1のふーと（Kaede）です．Web開発や機械学習，深層学習，自然言語処理に興味があります．[同人サークルMoM](https://momdev.club/)に所属しています．
+関西に住んでいる私立大学M1のふーと（Kaede）です．Web開発や機械学習，深層学習，自然言語処理に興味があります．[同人サークルMoM](https://momdev.club/)に所属しています．欲しいものリストは[こちら](https://www.amazon.co.jp/hz/wishlist/ls/27U9VMJ47CJZF?ref_=wl_share)
 
 <!--
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
