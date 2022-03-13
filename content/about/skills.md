@@ -19,6 +19,6 @@ feature:
     name: HTML
     #description: 10%
   - icon: css3
-      icon_pack: fab
-      name: CSS
+    icon_pack: fab
+    name: CSS
 ---
