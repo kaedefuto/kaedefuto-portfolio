@@ -4,12 +4,12 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
-content: 今日は
+content: 
   # Filter content to display
   filters:
     folders:
       - post
-    tag: ''
+    tag: 'test'
     category: ''
     publication_type: ''
     author: ''
