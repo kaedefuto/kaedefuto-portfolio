@@ -14,8 +14,8 @@ feature:
     icon_pack: fab
     name: Python
     #description: 90%
-  - icon: c
-    icon_pack: fab
-    name: C
+  #- icon: c
+  #  icon_pack: fab
+  #  name: C
     #description: 100%
 ---
