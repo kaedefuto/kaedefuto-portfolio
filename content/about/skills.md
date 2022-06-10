@@ -14,11 +14,11 @@ feature:
     icon_pack: fab
     name: Python
     #description: 90%
-  - icon: html5
-    icon_pack: fab
-    name: HTML
+  #- icon: html5
+  #  icon_pack: fab
+  #  name: HTML
     #description: 10%
-  - icon: css3
-    icon_pack: fab
-    name: CSS
+  #- icon: css3
+  #  icon_pack: fab
+  #  name: CSS
 ---
